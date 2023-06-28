@@ -1,0 +1,25 @@
+{
+  "name": "chatgpt-discord-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexandroivaldez/chatgpt-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexandroivaldez/chatgpt-discord-bot/issues"
+  },
+  "homepage": "https://github.com/alexandroivaldez/chatgpt-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1",
+    "openai": "^3.3.0"
+  }
+}
